@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Tricky Tactics Gears(BETA)</name>
+    <directory>tricky tactics gears(beta)</directory>
+    <id>13371987</id>
+    <description>This modification adds gear from the game Tricky Tactics</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Graphics"/>
+</metadata>
