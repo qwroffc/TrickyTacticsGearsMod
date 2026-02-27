@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+    <passive id="1" name="Honey band-aid" gfx="honey_band-aid.png" description="Sweet medical relief" quality="3" />
+</items>
